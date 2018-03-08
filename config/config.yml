@@ -1,0 +1,8 @@
+URL: http://stbi-test.jjfinder.com:81/JMTool/admin/login.jhtml
+urlY: http://pre-release.jmtool.papakaka.com:81/JMTool/admin/index.jhtml
+
+log:
+    backup: 5
+    console_level: WARNING
+    file_level: DEBUG
+    pattern: '%(asctime)s - %(name)s - %(levelname)s - %(message)s'

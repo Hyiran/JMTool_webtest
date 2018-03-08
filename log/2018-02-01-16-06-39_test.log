@@ -1,0 +1,13 @@
+2018-02-01 16:07:00,346 - JMTool Autotest - INFO - -*-*-*-*-*执行质检-操作-删除-取消用例*-*-*-*-*-
+2018-02-01 16:07:05,142 - JMTool Autotest - INFO - 点击删除按钮
+2018-02-01 16:07:05,664 - JMTool Autotest - INFO - 输入内容为 Autotest_delete_cancel
+2018-02-01 16:07:06,779 - JMTool Autotest - INFO - 点击取消按钮
+2018-02-01 16:07:31,076 - JMTool Autotest - INFO - -*-*-*-*-*执行质检-操作-删除-确定用例*-*-*-*-*-
+2018-02-01 16:07:35,919 - JMTool Autotest - INFO - 点击删除按钮
+2018-02-01 16:07:36,512 - JMTool Autotest - INFO - 输入内容为 Autotest_delete_successful
+2018-02-01 16:07:37,632 - JMTool Autotest - INFO - 点击确定按钮
+2018-02-01 16:07:41,891 - JMTool Autotest - INFO - 选择搜索类型为id
+2018-02-01 16:07:43,172 - JMTool Autotest - INFO - 输入内容为 132883
+2018-02-01 16:07:44,598 - JMTool Autotest - INFO - ['132883', '汽车检测场', '凤凰湖天泉酒店', '已删除']
+2018-02-01 16:08:06,710 - JMTool Autotest - INFO - -*-*-*-*-*执行质检-点击任务名链接用例*-*-*-*-*-
+2018-02-01 16:08:13,281 - JMTool Autotest - INFO - ['南宁泰洁南湖碧园洗衣房', '洗衣店', '茶花园路', '华柘晔', '深圳兼职', '南宁市', '青秀区']
